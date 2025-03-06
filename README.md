@@ -1,0 +1,1 @@
+# Validador de processo seletivo
